@@ -1,0 +1,9 @@
+---
+# Language: Cpp
+BasedOnStyle: LLVM
+ColumnLimit: 120
+IndentWidth: 2
+AllowShortBlocksOnASingleLine: false
+AlwaysBreakTemplateDeclarations: Yes
+CompactNamespaces: false
+...
